@@ -9,23 +9,23 @@ import DiaryCard from '../components/DiaryCard';
 const diaryEntries = [ 
   { 
     id: 1, 
-    title: 'ketua umum imm pembaharu saintek', 
+    title: 'Jadual Makan Siang', 
     date: '2025-10-06', 
-    preview: 'sebagai ketua umum saya harus selalu mengingatkan kader untuk terus bersinergi dalam negri...', 
+    preview: 'Ayam Bakar,Seblak,.', 
     moodUri: 'https://picsum.photos/seed/happy/80', 
   }, 
   { 
     id: 2, 
-    title: 'Produktif di Kampus', 
+    title: 'Murojaah', 
     date: '2025-10-05', 
-    preview: 'Menyelesaikan modul praktikum dan berdiskusi dengan tim. Banyak insight baru...', 
+    preview: 'jam 17.30 - 19.30.', 
     moodUri: 'https://picsum.photos/seed/focus/80', 
   }, 
   { 
     id: 3, 
-    title: 'Aktifitas ketua', 
+    title: ' Ngerjain Tugas', 
     date: '2025-10-04', 
-    preview: 'Menikmati senja sambil membaca buku favorit. Warna langit sangat indah...', 
+    preview: 'Dari Jam 10.30 - 11.40', 
     moodUri: 'https://picsum.photos/seed/calm/80', 
   }, 
 ]; 
@@ -54,7 +54,7 @@ export default function DiaryListScreen() {
 const styles = StyleSheet.create({ 
   container: { 
     flex: 1, 
-    backgroundColor: '#ffffff', 
+    backgroundColor: '#f5eded', 
   }, 
   content: { 
     padding: 16, 

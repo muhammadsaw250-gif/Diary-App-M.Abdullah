@@ -1,15 +1,11 @@
 import React from 'react'; 
 import { View, Text, Image, StyleSheet } from 'react-native'; 
 
-// Import gambar lokal dari folder assets/moods
-import happy from '../../assets/moods/happy.png'; 
- 
 export default function DiaryCard({ title, date, preview }) { 
   return ( 
     <View style={styles.card}>
-      {/* Menggunakan gambar lokal yang di-import */}
       <Image 
-        source={happy} 
+        source={require('../../assets/moods/happy.png')} 
         style={styles.mood} 
       /> 
 
@@ -29,14 +25,14 @@ export default function DiaryCard({ title, date, preview }) {
     </View>
   ); 
 } 
- 
+
 const styles = StyleSheet.create({ 
   card: { 
     flexDirection: 'row', 
     gap: 12, 
     padding: 12, 
     borderWidth: 1, 
-    borderColor: '#e5e7eb', 
+    borderColor: '#899abd', 
     borderRadius: 12, 
     marginBottom: 12, 
   }, 
