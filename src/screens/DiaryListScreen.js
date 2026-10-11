@@ -12,7 +12,7 @@ import DiaryCard from '../components/DiaryCard';
 const diaryEntries = [
   {
     id: 1,
-    title: 'Jadual Makan Siang',
+    title: 'Jadwal Makan Siang',
     date: '2025-10-06',
     preview: 'Ayam Bakar, Seblak, dan nasi.',
     mood: 'happy',
