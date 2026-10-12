@@ -56,7 +56,7 @@ Diary-App-M.Abdullah-main/
 
 Tampilan aplikasi di Expo Go / emulator:
 
-![Tampilan Diary App](screenshots/screenshot.png)
+![Tampilan Diary App](screenshots/screenshot.jpg)
 
 <!-- Letakkan screenshot di folder screenshots/ dengan nama screenshot.png -->
 
