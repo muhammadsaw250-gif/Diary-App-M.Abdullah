@@ -170,7 +170,7 @@ Pengujian aplikasi dilakukan dengan memeriksa:
 ## Screenshot
 Tampilan aplikasi di Expo Go / emulator:
 
-![Tampilan Diary App](screenshots/screenshot.jpg)
+![Tampilan Diary App](WhatsApp.jpeg)
 
 ## Catatan
 
