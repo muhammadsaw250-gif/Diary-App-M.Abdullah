@@ -173,7 +173,3 @@ Tampilan aplikasi di Expo Go / emulator:
 
 ![Tampilan Diary App](screenshots/WhatsApp.jpg)
 
-## Catatan
-
-Screenshot harus berasal dari aplikasi yang benar-benar dijalankan. Sesuaikan identitas mahasiswa dan daftar screenshot sebelum pengumpulan. Proyek ini menggunakan penyimpanan state selama aplikasi berjalan; data diary belum menggunakan database permanen.
-
