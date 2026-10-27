@@ -168,9 +168,10 @@ Pengujian aplikasi dilakukan dengan memeriksa:
 - Perubahan tampilan setelah state diperbarui.
 
 ## Screenshot
+
 Tampilan aplikasi di Expo Go / emulator:
 
-![Tampilan Diary App](WhatsApp..jpg)
+![Tampilan Diary App](./WhatsApp..jpg)
 
 ## Catatan
 
