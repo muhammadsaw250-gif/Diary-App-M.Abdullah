@@ -171,7 +171,7 @@ Pengujian aplikasi dilakukan dengan memeriksa:
 
 Tampilan aplikasi di Expo Go / emulator:
 
-![Tampilan Diary App](./WhatsApp..jpg)
+![Tampilan Diary App](./WhatsApp.jpg)
 
 ## Catatan
 
